@@ -2,7 +2,7 @@
 - 👀 I’m interested in different kinds of technologies
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me Mknagbonziza@gmail.com
+- 📫 How to reach me Mkngabonziza@gmail.com
 
 <!---
 Ngabonziza-Marc/Ngabonziza-Marc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
